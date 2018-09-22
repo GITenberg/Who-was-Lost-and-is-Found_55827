@@ -1,0 +1,28 @@
+_repo: Who-was-Lost-and-is-Found_55827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Olyphant, Mrs.
+    - Oliphant, Margaret Oliphant Wilson
+    - Mrs. (Margaret) Oliphant
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2017-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Who was Lost and is Found
+url: http://www.gutenberg.org/ebooks/55827
